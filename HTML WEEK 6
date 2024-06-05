@@ -1,1 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pinoy Accounting Limited</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Pinoy Accounting Limited</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="services.html">Services</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+    <div class="content">
+        <section class="bg-image">
+            <div class="overlay">
+                <h2>Home</h2>
+                <p>Welcome to Pinoy Accounting Limited</p>
+            </div>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2024 Pinoy Accounting Limited. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
+
+
 
